@@ -1,3 +1,4 @@
 credentials:
   api_key: "sk_live_FAKEKEY_123456789"
   secret: "mysecretfake"
+  DATABASE_URL: "postgres://fakeuser:fakepass@localhost:5432/fakedb"
